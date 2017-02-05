@@ -1,0 +1,11 @@
+c:\users\zsolt\documents\visual studio 2015\Projects\amazon-image-downloader\amazon-image-downloader\bin\Debug\amazon-image-downloader.exe.config
+c:\users\zsolt\documents\visual studio 2015\Projects\amazon-image-downloader\amazon-image-downloader\bin\Debug\amazon-image-downloader.exe
+c:\users\zsolt\documents\visual studio 2015\Projects\amazon-image-downloader\amazon-image-downloader\bin\Debug\amazon-image-downloader.pdb
+c:\users\zsolt\documents\visual studio 2015\Projects\amazon-image-downloader\amazon-image-downloader\obj\Debug\amazon-image-downloader.csprojResolveAssemblyReference.cache
+c:\users\zsolt\documents\visual studio 2015\Projects\amazon-image-downloader\amazon-image-downloader\obj\Debug\amazon_image_downloader.main.resources
+c:\users\zsolt\documents\visual studio 2015\Projects\amazon-image-downloader\amazon-image-downloader\obj\Debug\amazon_image_downloader.Properties.Resources.resources
+c:\users\zsolt\documents\visual studio 2015\Projects\amazon-image-downloader\amazon-image-downloader\obj\Debug\amazon-image-downloader.csproj.GenerateResource.Cache
+c:\users\zsolt\documents\visual studio 2015\Projects\amazon-image-downloader\amazon-image-downloader\obj\Debug\amazon-image-downloader.exe
+c:\users\zsolt\documents\visual studio 2015\Projects\amazon-image-downloader\amazon-image-downloader\obj\Debug\amazon-image-downloader.pdb
+c:\users\zsolt\documents\visual studio 2015\Projects\amazon-image-downloader\amazon-image-downloader\obj\Debug\amazon_image_downloader.selector.resources
+c:\users\zsolt\documents\visual studio 2015\Projects\amazon-image-downloader\amazon-image-downloader\obj\Debug\amazon_image_downloader.Settings.resources
