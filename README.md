@@ -1,6 +1,6 @@
 # amazon-image-downloader
 
-## There is a dotnet core port of this app [here](https://github.com/bodzaital/aid-core).
+**There is a dotnet core port of this app [here](https://github.com/bodzaital/aid-core).**
 
 Displays and downloads a product's images from amazon.com
 
