@@ -1,6 +1,10 @@
-# amazon-image-downloader
+# This is not maintained anymore.
 
-**There is a dotnet core port of this app [here](https://github.com/bodzaital/aid-core).**
+**[Dotnet Core CLI version available here.](https://github.com/bodzaital/aid-core)**
+
+**[WebExtension version available here.](https://github.com/bodzaital/aid-core-js)**
+
+# amazon-image-downloader
 
 Displays and downloads a product's images from amazon.com
 
